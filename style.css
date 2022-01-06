@@ -1,0 +1,133 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.side-bar{
+    border-left: 3px solid;
+    border-color: tomato;
+}
+.link-button{
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color: rgb(247, 103, 103);
+    color: white;
+    border-radius: 5px;
+}
+.flexible{
+    display: flex;
+    margin: 0% 10% 5% 10%
+}
+.half-width{
+    width: 50%;
+}
+.big-image{
+    height: 500px;
+    width: 400px;
+}
+.small-image{
+    height: 150px;
+    width: 150px;
+}
+h1{
+    font-size: 60px;
+    margin: 0 0 0 10px;
+}
+.second-heading{
+    font-size: 50px;
+}
+.color-half-heading{
+    color: rgb(245, 184, 16);
+}
+#get-down{
+    margin-top: 100px;
+}
+.align-center{
+    text-align: center;
+}
+#mission{
+    background-color:rgb(163, 199, 201);
+}
+#vission{
+    background-color: rgb(248, 201, 184);
+}
+#goal{
+    background-color: rgb(202, 148, 209);
+}
+.tri-box{
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+.third-heading{
+    font-size: 35px;
+    margin: 0;
+}
+.third-portion-image{
+    height: 400px;
+    width: 450px;
+    margin-left: 10%;
+}
+#margin-top{
+    margin-top: 70px;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    height: 100px;
+    padding: 40px 0;
+    margin: 0 -8px -8px -8px
+}
+.footer-font-size{
+    font-size: 30px;
+    color: white;
+    font-family: 'Lobster', cursive;
+}
+.year-color{
+    color:tomato;
+}
+.footer-small-part{
+    color:rgb(78, 121, 121);
+    padding-top: 0;
+    font-size: 15px;
+}
+.new-portion{
+    background-color: rgb(202, 148, 209);
+    width: 30%;
+    height: 130px;
+    margin: 5%;
+    padding-left: 10px;
+    padding-top: 5%;
+}
+.new{
+    flex-flow: row wrap;
+    position: relative;
+}
+#first{
+    border-radius: 35px 20px 0 70px;
+}
+#second{
+    border-radius: 20px 35px 70px 0;
+}
+#third{
+    border-radius: 70px 0 20px 35px;
+}
+#fourth{
+    border-radius: 0 70px 35px 20px;
+}
+.margin{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.parent-div{
+    margin-left: 10%;
+}
+.one-word{
+    padding-top: 18%;
+    font-weight: bolder;
+}
+#align-box{
+    padding-left: 23%;
+}
+
+
