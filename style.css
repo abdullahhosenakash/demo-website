@@ -12,6 +12,9 @@ body{
     color: white;
     border-radius: 5px;
 }
+.explore-more{
+    padding-top: 20px;
+}
 .flexible{
     display: flex;
     margin: 0% 10% 5% 10%
@@ -129,5 +132,8 @@ footer{
 #align-box{
     padding-left: 23%;
 }
-
-
+.last-paragraph{
+    font-weight: 500;
+    font-size: 20px;
+    padding-bottom: 5%;
+}
